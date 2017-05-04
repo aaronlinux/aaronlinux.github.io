@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "判断两个数组是否相似 (arraysSimilar)"
-date:   2015-04-06 15:14:54
+date:   1900-01-01 15:14:54
 categories: JavaScript
 tags: JavaScript Array 算法 慕课网
 ---
