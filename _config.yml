@@ -16,9 +16,9 @@ permalink: /:year/:month/:day/:title/
 # other links
 #twitter_username: gaohaoyang126
 #facebook_username: gaohaoyang.water
-#github_username:  Gaohaoyang
+github_username:  aaronlinux
 email: mail@liusong.net
-#weibo_username: 3115521wh
+weibo_username: liusong@usa.com
 #zhihu_username: gaohaoyang
 #linkedIn_username: gaohaoyang
 #dribbble_username:
@@ -35,7 +35,7 @@ description_footer: 点点滴滴，重新开始
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
+baidu_tongji_id: de7f01c1ee70d8d83677caab3323efba
 google_analytics_id: UA-72449510-4 # google 分析追踪id
 
 # Build settings
