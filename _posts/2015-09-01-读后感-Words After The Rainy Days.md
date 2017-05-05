@@ -9,6 +9,9 @@ description: The operation sucssed,As the side affection do,he forgot her. On th
 ---
 I like the rainy days,what the sasaki brings me is a kinda moved thing–Zing. 
 
+
+
+
 Even the man had only a few days left in his life,even he knew that his head-cancer was so bad,he still devoted himself into a relationship given by God,I’m really moved,I realize that this story maybe not true,but I am willing to believe it. 
 
 The story began from a rainy day,when the girl and her teacher first met,thanks to the photostore mistaking their photos, while love just came in this coisidence,while the chemical reaction happened. 
