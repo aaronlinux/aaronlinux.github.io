@@ -2,8 +2,8 @@
 layout: post
 title:  "代码校验工具 SublimeLinter 的安装与使用"
 date:   1900-01-01 15:14:54
-categories: Sublime
-tags: Sublime jshint csslint
+categories: 使用
+tags: 使用
 ---
 
 * content

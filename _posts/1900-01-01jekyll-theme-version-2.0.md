@@ -2,9 +2,9 @@
 layout: post
 title:  "对这个 jekyll 博客主题的改版和重构"
 date:   1900-01-01 11:40:18 +0800
-categories: jekyll
-tags: jekyll 端口 markdown Foxit RubyGems HTML CSS
-author: Haoyang Gao
+categories: 使用
+tags: 使用
+author: 使用
 ---
 
 * content

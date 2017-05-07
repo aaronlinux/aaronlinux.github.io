@@ -2,8 +2,8 @@
 layout: post
 title:  "Jekyll 搭建静态博客"
 date:   1900-01-01 22:14:54
-categories: jekyll
-tags: jekyll RubyGems
+categories: 使用
+tags: 使用
 ---
 
 * content

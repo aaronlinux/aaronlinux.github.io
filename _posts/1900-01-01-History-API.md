@@ -2,8 +2,8 @@
 layout: post
 title:  "前端处理动态 url 和 pushStatus 的使用"
 date:   1900-01-01 23:06:05
-categories: JavaScript
-tags: JavaScript Ajax URL HistoryApi pushState pjax
+categories: 使用
+tags: 使用
 ---
 
 * content

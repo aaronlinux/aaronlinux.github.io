@@ -2,8 +2,8 @@
 layout: post
 title:  "Teach Girlfriend to make a Web Pages like Zhihu"
 date:   1900-01-01 15:14:54
-categories: Bootstrap
-tags: BootStrap HTML CSS Zhihu
+categories: 使用
+tags: 使用
 ---
 
 * content

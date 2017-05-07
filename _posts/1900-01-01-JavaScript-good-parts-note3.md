@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "JavaScript 语言精粹笔记3-方法、毒瘤等"
-categories: JavaScript
-tags:  函数 JavaScript
+categories: 使用
+tags:  使用
 ---
 
 * content

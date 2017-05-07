@@ -2,8 +2,8 @@
 layout: post
 title:  "JavaScript 中的闭包"
 date:   1900-01-01 14:06:05
-categories: JavaScript
-tags: JavaScript 闭包 慕课网 ife
+categories: 使用
+tags: 使用
 ---
 
 * content

@@ -2,8 +2,8 @@
 layout: post
 title:  "同步一个 fork"
 date:   1900-01-01 15:14:54
-categories: GitHub
-tags: GitHub 同步 fork
+categories: 使用
+tags: 使用
 ---
 
 * content

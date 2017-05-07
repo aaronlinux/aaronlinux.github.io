@@ -2,8 +2,8 @@
 layout: post
 title:  "JavaScript 中的 this"
 date:   1900-01-01 14:06:05
-categories: JavaScript
-tags: JavaScript 慕课网 this ife
+categories: 使用
+tags: 使用
 ---
 
 * content

@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Fisher–Yates shuffle 洗牌算法"
-categories: JavaScript
-tags:  算法 shuffle 乱序 洗牌
-author: HyG
+categories: 使用
+tags:  使用
+author: 使用
 ---
 
 * content

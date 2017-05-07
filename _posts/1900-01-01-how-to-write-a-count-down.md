@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "前端如何写一个精确的倒计时"
-categories: JavaScript
-tags:  countdown JavaScript
-author: HyG
+categories: 使用
+tags:  使用
 ---
 
 * content
