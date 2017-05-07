@@ -2,8 +2,8 @@
 layout: post
 title:  "联想服务前端实习面试经历"
 date:   1900-01-01 14:06:05
-categories: Interview
-tags: 面试 Lenovo 实习 JavaScript
+categories: 使用
+tags: 使用
 ---
 
 * content
