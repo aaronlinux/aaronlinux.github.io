@@ -7,7 +7,7 @@ type: page
 ---
 * content
 {:toc}
-## 自然信息
+## 个人信息
 
 刘嵩
 
