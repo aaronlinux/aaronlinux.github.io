@@ -114,7 +114,7 @@ type: page
 
 **其他技能**
 
-计算机组装维护， Photoshop
+计算机组装维护， linux安装与调试，Photoshop
 
 ## 自我评价
 
