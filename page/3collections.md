@@ -38,7 +38,7 @@ type: page
 # 6. GitHub Free Programming Books
   免费编程书籍
 
-  以Github管理的方式搜集了免费的编程和系统管理等书籍，给作者点1024个赞~~，另外连接是fork原作者，后续增加中文书籍
+  以Github管理的方式搜集了alias lr=’ls -R 	g免费的编程和系统管理等书籍，给作者点1024个赞~~，另外连接是fork原作者，后续增加中文书籍
 
 # 7. Collabedit.com
    实时文本交互聊天
