@@ -7,9 +7,9 @@ type: page
 ---
 * content
 {:toc}
-## [个人信息](http://me.liusong.net)
+## 个人信息
 
-**[刘嵩](http://me.liusong.net)**
+**刘嵩**
 
 男  28岁  硕士  4年工作经验
 
