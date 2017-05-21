@@ -7,7 +7,7 @@ type: page
 ---
 * content
 {:toc}
-## 个人信息
+## [个人简历页面](http://me.liusong.net)
 
 **刘嵩**
 
