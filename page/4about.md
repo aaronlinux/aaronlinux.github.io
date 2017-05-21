@@ -1,15 +1,15 @@
 ---
 layout: page
-title: [关于](http://me.liusong.net)
+title: 关于
 permalink: /about/
 icon: heart
 type: page
 ---
 * content
 {:toc}
-## 个人信息
+## [个人信息](http://me.liusong.net)
 
-**刘嵩**
+**[刘嵩](http://me.liusong.net)**
 
 男  28岁  硕士  4年工作经验
 
