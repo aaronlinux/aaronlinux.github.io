@@ -97,4 +97,4 @@ categories: 学习
 
 有的时候我们会用access的时间，也就是说 -amin或者 -atime
 
-还有的时候会用刀change的时间，也就是说 -cmin或者 -ctime
+还有的时候会用到change的时间，也就是说 -cmin或者 -ctime
