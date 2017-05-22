@@ -136,3 +136,27 @@ curl是可以直接接上网络地址的。可以返回跟对应网址有关的�
 > source ~/.bashrc
 
 > fi
+
+## 修改bash的颜色
+
+一般来说直接修改.bashrc
+
+> PS1=“-> ”;
+
+这里面的可以添加系统可识别的字段
+
+> \h the hostname to the first 主机名
+
+> \n newline 新一行
+
+> \s the name of the shell 命令解释器的名称
+
+> \t the current time in 24-hour format 时间24小时的格式
+
+> \u the username of the current user 当先用户的名称
+
+> \w the current working directory 当前工作路径
+
+> \W the base name of the current working directory 工作路径的起始位置
+
+> export PS1;
