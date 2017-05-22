@@ -177,6 +177,13 @@ curl是可以直接接上网络地址的。可以返回跟对应网址有关的�
 - Share what you’ve learned with the rest of us.
 
 ## 快捷键
+
 支持部分emacs的快捷键
 ctrl+a，e，u（删除光标以前），k（删除光标以后）,l(清空屏幕)
 
+## creating aliases for commands
+
+如果你发现你经常的不停的使用同一个命令，而这个命令有比较长，你就可以使用aliases来喝计算机约定一个简单的命令来方便操作。
+
+> alias 约定名=‘命令和参数’
+注意这里的引号是英文的单引号。
