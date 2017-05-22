@@ -176,3 +176,7 @@ curl是可以直接接上网络地址的。可以返回跟对应网址有关的�
 - Learn from the community. Discover new tools for your toolbox and new tricks for the ones you already use.
 - Share what you’ve learned with the rest of us.
 
+## 快捷键
+支持部分emacs的快捷键
+ctrl+a，e，u（删除光标以前），k（删除光标以后）,l(清空屏幕)
+
