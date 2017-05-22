@@ -142,7 +142,8 @@ curl是可以直接接上网络地址的。可以返回跟对应网址有关的�
 一般来说直接修改.bashrc
 
 > PS1=“-> ”;
-
+> 
+> export PS1;
 这里面的可以添加系统可识别的字段
 
 > \h the hostname to the first 主机名
@@ -157,6 +158,14 @@ curl是可以直接接上网络地址的。可以返回跟对应网址有关的�
 
 > \w the current working directory 当前工作路径
 
-> \W the base name of the current working directory 工作路径的起始位置
+> \W the base name of the current working directory 当前工作路径位置的名称
 
-> export PS1;
+更改颜色和可以用tput命令，举例子：
+> PS1=“$(tput setaf 166)\u@$(tput setaf 228)\h-> ”;
+> 
+> PS1+=“$(tput setaf 71)\W”;
+> 
+> PS1+=“$(tput sgr0)”;
+> 
+> export PS1; 
+
