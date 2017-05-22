@@ -89,4 +89,12 @@ categories: 学习
 在十分钟之前，修改过的文件
 
 > find . -type f -mmin +1 -mmin -5
-在五分钟以内，一分钟之前的时间么修改过的文件
+在五分钟以内，一分钟之前的时间内修改过的文件
+
+有些时候后，我们不用分钟，可能用的天数 -mmin改成 -mtime
+
+这里面m表示modify，意味着modify的时间；
+
+有的时候我们会用access的时间，也就是说 -amin或者 -atime
+
+还有的时候会用刀change的时间，也就是说 -cmin或者 -ctime
