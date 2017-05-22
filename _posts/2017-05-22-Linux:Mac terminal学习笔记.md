@@ -87,3 +87,6 @@ categories: 学习
 
 > find . -type f -mmin +10
 在十分钟之前，修改过的文件
+
+> find . -type f -mmin +1 -mmin -5
+在五分钟以内，一分钟之前的时间么修改过的文件
