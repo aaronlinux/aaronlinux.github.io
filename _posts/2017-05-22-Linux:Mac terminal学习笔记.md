@@ -170,3 +170,9 @@ curl是可以直接接上网络地址的。可以返回跟对应网址有关的�
 > 
 > export PS1; 
 
+## use and modify the dot files
+
+- Backup, restore, and sync the prefs and settings for your toolbox. Your dotfiles might be the most important files on your machine.
+- Learn from the community. Discover new tools for your toolbox and new tricks for the ones you already use.
+- Share what you’ve learned with the rest of us.
+
