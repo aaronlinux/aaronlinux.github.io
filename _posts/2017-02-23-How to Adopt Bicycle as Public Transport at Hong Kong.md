@@ -4,7 +4,7 @@ title: How to Adopt Bicycle as Public Transport at Hong Kong?
 tags:
 - 练习
 - 作业
-categories: 知惠
+categories: 学习
 ---
 * content
 {:toc}
