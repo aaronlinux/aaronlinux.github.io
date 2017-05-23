@@ -5,9 +5,8 @@ tags:
 - 脱欧
 - 作业
 categories: 学习
-description: 
-2016 Brexit effect on export companies of China
 ---
+2016 Brexit effect on export companies of China
 
 A lot of events accursed in 2016, among which  the Brexit public vote is no doubt a heavy message. On the afternoon of June 24 2016, the British announced the final outcome of the "Brexit" public vote: the British exits from the EU. The referendum not only has a significant impact on the overall fate of the EU, but also bring a lot of variables to the Sino-British and Sino- European relations. From the US general election 2016, the vote of British exit from Europe, Italy constitutional amendment, the debt crisis in Europe and other major events, the west countries originally have been advocating a global economy seems to have a wave of deglobalization, but for the rapid rising east country China, The demand for global economic and trade is growing.
 
