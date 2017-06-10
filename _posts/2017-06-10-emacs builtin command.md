@@ -98,7 +98,7 @@ categories: 学习
 ###### json
 1.4           built-in   JavaScript Object Notation parser / generator
 ###### linum
-0.9.24        built-in   display line numbers in the left margin
+添加行号	0.9.24        built-in   display line numbers in the left margin
 ###### master
 1.0.2         built-in   make a buffer the master over another buffer
 ###### md4
