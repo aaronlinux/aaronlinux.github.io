@@ -5,6 +5,8 @@ permalink: /collection/
 icon: bookmark
 type: page
 ---
+* content
+{:toc}
 
 #### 1.ExplainShell.com
 
