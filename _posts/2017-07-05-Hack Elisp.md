@@ -17,30 +17,28 @@ categories: 学习
 {:toc}
 
 #### 如何安装 Emacs 
-Debian: apt-get install emacs \(or see your distro instructions\)
-MacOSX: http://emacsformacosx.com/emacs-builds/Emacs-24.3-universal-10.6.8.dm
-Windows: http://ftp.gnu.org/gnu/windows/emacs/emacs-24.3-bin-i386.zip
-More general information can be found at:
-http://www.gnu.org/software/emacs/#Obtaining
+Deb体系: apt-get install emacs
 
 #### 启动Emacs, 缓冲区和工作模式
  
- 第一步首先启动Emacs: \(在windows中可以双击emacs图标，在Linux中可以输入% emacs & \)，
- 然后在键盘上键入q 跳过系统欢迎的信息，
- 先观察在Emacs屏幕的底部，会给出一堆关于当前的工作情况的信息，其中灰色的一行叫做状态行，
- 在其中你会发现 *scratch* 的字样，这表示你当前的缓冲区\(buffer\)的名字。
- 缓冲区也叫做工作区，在Emacs中打开一个文件，实际只是在Emacs中构造该文件的一个副本，放到缓冲区中，
- 在Emacs中对该文件的编辑也是针对该副本的编辑，唯有保存改动时，Emacs才会把缓冲区中的内容在复制到原文件中去。
- 状态行下面的那行，叫做辅助输入区\(minibuffer\),该minibuffer用于显示计算结果，以及和用户做交互。
+terminal下键入
+
+> emacs
+
+后面可以键入 -nw，表示在Linux的terminal下。
  
- 如何切换Emacs的工作模式 
- Emacs有各种各样功能各异的模式，工作模式的含义其实就是Emacs对当前的文本编辑工作
- 更加的敏感，比如高亮和缩进，并且支持一些特殊的命令。
- 为了实验本教程中的lisp命令，我们要让Emacs工作在lisp-interaction-mode工作模式下，
- 这个模式可以让我们在缓冲区中和Emacs进行互动，并且直接执行Lisp命令,得到结果。
- 进入lisp-interaction-mode的方法： 把光标移动到辅助输入区，键入M-x lisp-interaction-mode 
- 然后回车。
- 
+如何切换Emacs的工作模式 
+
+Emacs有各种各样功能各异的模式，工作模式的含义其实就是Emacs对当前的文本编辑工作
+
+更加的敏感，比如高亮和缩进，并且支持一些特殊的命令。
+
+为了实验本教程中的lisp命令，我们要让Emacs工作在lisp-interaction-mode工作模式下，
+
+这个模式可以让我们在缓冲区中和Emacs进行互动，并且直接执行Lisp命令,得到结果。
+
+进入lisp-interaction-mode的方法： 把光标移动到辅助输入区，键入M-x lisp-interaction-mode，然后回车。
+
 ####  表达式，变量和函数
 
 冒号在Lisp中表示注释
@@ -77,13 +75,13 @@ ELisp中的赋值函数是是setq，下面的表达式给变量my-name赋值"Bas
 
 > \(setq my-name "Bastien"\)
 
-^ 把光标停在这里，再键入C-x C-e
+执行上边的程式
  
 下面insert函数的作用是在光标所在出插入字符Hello
 
 > \(insert "Hello!"\)
 
-^ 把光标停在这里，再键入C-x C-e
+执行上边的程式
  
 insert函数还可以两个常量字符，比如
 
@@ -101,7 +99,9 @@ defun命令用来定义一个函数,语法是
 
 > \(defun hello \(\) \(insert "Hello, I am " my-name\)\)
 
-^ 把光标停在这里，再键入C-x C-e 执行defun命令来定义函数
+执行上边的程式
+
+执行defun命令来定义函数
 
 通过defun命令，你已经在Emacs中安装了这个hello函数，这个函数就成为了Emacs的一部分，知道你退出Emacs或者改变hello的定义
  
