@@ -7,6 +7,11 @@ tags:
 - linux
 categories: 学习
 ---
+重新hack 一遍网上的教程，学习一下elisp的编程语言，了解下常用的功能。
+
+
+
+
 
 * content
 {:toc}
