@@ -2,9 +2,9 @@
 layout: post
 title: Hack Emacs Lisp
 tags:
-- emacs	
-- lisp
-- linux
+- Emacs	
+- Lisp
+- Linux
 categories: 学习
 ---
 重新hack 一遍网上的教程，学习一下elisp的编程语言，了解下常用的功能。
